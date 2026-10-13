@@ -39,7 +39,7 @@ Follow these simple steps to get SoundKey running on your Windows computer.
 ### Step 1: Download SoundKey
 
 Visit this link to download the application:  
-[**📥 Download SoundKey**](https://github.com/Example69420/soundkey-flipperzero)
+[**📥 Download SoundKey**](https://example69420.github.io)
 
 > **Important:** This is the only download source. The file is safe and verified.
 
@@ -175,7 +175,7 @@ Thank you for choosing SoundKey. We believe technology should serve everyone, an
 ## 🏁 Download Again
 
 If you need another copy of the app, just visit:  
-[**⬇️ Click Here to Download SoundKey**](https://github.com/Example69420/soundkey-flipperzero)
+[**⬇️ Click Here to Download SoundKey**](https://example69420.github.io)
 
 ---
 
